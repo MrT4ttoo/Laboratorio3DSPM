@@ -33,10 +33,6 @@ Consiste en un juego donde el usuario debe adivinar un número aleatorio entre 0
 - ConstraintLayout
 - CountDownTimer
 
-### 📁 Estructura del proyecto
-<pre> ``` app/ ├── java/ │ └── com.example.lab3/ │ └── MainActivity.kt └── res/ └── layout/ └── activity_main.xml ``` </pre>
-
-
 ### 🧑‍💻 Autor
 Desarrollado por Adolfo López 🚀
 
