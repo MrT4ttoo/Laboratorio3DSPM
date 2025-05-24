@@ -22,10 +22,6 @@ Consiste en un juego donde el usuario debe adivinar un número aleatorio entre 0
 4. El juego te dirá si el número es mayor o menor.
 5. Puedes reiniciar el juego con el botón **Reiniciar**.
 
-### 📷 Capturas de pantalla
-
-*(Aquí puedes poner capturas si quieres)*
-
 ### 🛠 Tecnologías utilizadas
 
 - Kotlin
